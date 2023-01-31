@@ -1,6 +1,5 @@
 # Lattice Gas Automaton with FPGA (FHP-II)
 
-Please go to the URL below:
-
-http://www.buhii.org/cojt
-
+You can watch the movies:
+- https://www.youtube.com/watch?v=8m9cTYY3EGA
+- https://www.youtube.com/watch?v=3m_RA6SGsjU
